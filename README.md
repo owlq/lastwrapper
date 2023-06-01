@@ -35,7 +35,7 @@ Once you have created an API key, you can use it to access the wrapper.
 This project is mainly used for discord.py, but can be used for other reasons along the way.
 Here is an example on how you can use this package in discord.py
 
-```
+```py
 import discord, lastwrapper
 from discord.ext import commands
 

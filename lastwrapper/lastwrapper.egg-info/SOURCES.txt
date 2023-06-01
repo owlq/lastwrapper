@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+lastwrapper/lastwrapper.egg-info/PKG-INFO
+lastwrapper/lastwrapper.egg-info/SOURCES.txt
+lastwrapper/lastwrapper.egg-info/dependency_links.txt
+lastwrapper/lastwrapper.egg-info/top_level.txt
